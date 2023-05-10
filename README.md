@@ -28,3 +28,5 @@ docker-compose build
 ```
 docker-compose up
 ```
+
+Запустить скрипт создания таблицы init.sql внутри базы данных
